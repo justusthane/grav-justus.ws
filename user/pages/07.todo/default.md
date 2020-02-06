@@ -10,7 +10,7 @@ tagline: '&nbsp;for this site'
     - Tags
 - [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
-- [ ] Create Grav plugin to render these markdown checkboxes as HTML checkboxes
+- [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
 - [ ] Add How does this site work? page
 - [ ] Publish theme?
