@@ -13,6 +13,10 @@ tagline: '&nbsp;for this site'
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
 - [ ] Add "How does this site work?" page
+- [ ] Add RSS feeds
+- [ ] Add options page
+    - [ ] light theme/dark theme
+    - [ ] cookie to indicate new items since last visit
 - [ ] Publish theme?
 - [ ] "Slow Story": use a neural network or something to generate a story at a speed of one word per day
     - I definitely don't know how to do this, but I like the idea and it might be fun to figure out?
