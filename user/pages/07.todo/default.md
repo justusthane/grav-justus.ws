@@ -15,6 +15,7 @@ tagline: '&nbsp;for this site'
 - [ ] Add /now page
 - [ ] Add "How does this site work?" page
 - [ ] Add RSS feeds
+- [ ] Worm composting article?
 - [ ] Add options page
     - [ ] light theme/dark theme
     - [ ] cookie to indicate new items since last visit
