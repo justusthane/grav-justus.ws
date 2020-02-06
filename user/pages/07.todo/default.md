@@ -8,3 +8,4 @@ tagline: '&nbsp;for this site'
 - [ ] Define the site tagline in YAML config
 - [ ] Create Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
+- [ ] Add How does this site work? page
