@@ -1,5 +1,5 @@
 ---
-title: 'Things I want to do on this site'
+title: 'Things I want to do on this' site'
 menu: 'todo'
 tagline: '&nbsp;for this site'
 ---
@@ -12,5 +12,7 @@ tagline: '&nbsp;for this site'
 - [ ] Define the site tagline in YAML config
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
-- [ ] Add How does this site work? page
+- [ ] Add "How does this site work?" page
 - [ ] Publish theme?
+- [ ] "Slow Story" -> Use a neural network or something to generate a story at a speed of one word per day
+    - I definitely don't know how to do this, but I like the idea and it might be fun to figure it out?
