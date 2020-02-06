@@ -13,3 +13,4 @@ tagline: '&nbsp;for this site'
 - [ ] Create Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
 - [ ] Add How does this site work? page
+- [ ] Publish theme?
