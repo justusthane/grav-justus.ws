@@ -1,0 +1,93 @@
+body {
+    font-family: ;
+    color: #5C5C5C;
+    /*background-color: #fefefe;*/
+}
+
+#header {
+    text-align: center;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#header div {
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+#header .logo {
+    text-align: right;
+    flex: 1 1 0;
+}
+
+#header .tagline {
+    flex: 1 1 0;
+    text-align: left;
+    font-size: 1.5rem;
+    padding-top: 10px;
+}
+
+#home {
+    font-size: 2rem;
+}
+
+#content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 1.5rem;
+}
+
+#content img {
+    width: 100%;
+}
+
+#back {
+    font-size: 2.5rem;
+}
+
+a,a:visited {
+	text-decoration:    underline;
+    color:              #0000EE;
+}
+
+a:hover {
+	text-decoration:    none;
+	color:				#FF4826;
+}
+
+.comingsoon {
+    text-decoration: line-through;
+}
+
+@media only screen and (min-device-width: 500px) {
+dl {
+	overflow:	hidden;
+	width:		100%;
+	margin:		0;
+	padding:	0;
+	text-align:	left;
+	font-size: 1.2em;
+}
+
+dt {
+	float:			left;
+	width:			50%;
+	margin:			0;
+	padding:		0;
+	padding-right:	0;
+	text-align:		right;
+}
+
+dd {
+	float:			right;
+	width:			50%;
+	margin:			0;
+	padding:		0;
+	padding-left:	0;
+    visibility:     hidden;
+
+}
+}

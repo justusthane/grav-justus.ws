@@ -1,0 +1,20 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    <div id="home">
+<dl>
+        {% for page in pages.children.visible %}
+            {% if page.menu != 'justus.ws' %}
+            <dt>
+                <a href="{{ page.url }}">
+                    {{ page.menu }}
+                </a>
+            </dt>
+            <dd>{{ page.header.tagline }}</dd>
+            {% endif %}
+        {% endfor %}
+</dl>
+
+    </div>
+    {{ page.content }}
+{% endblock %}
