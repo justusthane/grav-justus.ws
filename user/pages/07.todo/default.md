@@ -5,6 +5,7 @@ tagline: '&nbsp;for this site'
 ---
 
 - [ ] Stop images from being sideways :\
+- [ ] Fix site tagline on mobile
 - [ ] Add blog
     - Different content types (long post, blurb, photo, link)
     - Tags
