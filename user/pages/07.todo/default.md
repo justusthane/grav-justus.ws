@@ -12,6 +12,7 @@ tagline: '&nbsp;for this site'
     - [ ] Tags
 - [ ] Figure out how to unobstrusively integrate an  [h-Card](http://microformats.org/wiki/h-card) into the homepage?
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+- [ ] Favicon
 - [ ] Glove darning blog post
 - [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
