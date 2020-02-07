@@ -6,9 +6,11 @@ tagline: '&nbsp;for this site'
 
 - [ ] Stop images from being sideways :\
 - [ ] Fix site tagline on mobile
+- [ ] Split homepage into "Here" and "Elsewhere" sections
 - [ ] Add blog
     - [ ] Different content types (long post, blurb, photo, link)
     - [ ] Tags
+- [ ] Figure out how to unobstrusively integrate an  [h-Card](http://microformats.org/wiki/h-card) into the homepage?
 - [ ] Glove darning blog post
 - [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
