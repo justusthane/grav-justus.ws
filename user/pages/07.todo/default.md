@@ -7,8 +7,9 @@ tagline: '&nbsp;for this site'
 - [ ] Stop images from being sideways :\
 - [ ] Fix site tagline on mobile
 - [ ] Add blog
-    - Different content types (long post, blurb, photo, link)
-    - Tags
+    - [ ] Different content types (long post, blurb, photo, link)
+    - [ ] Tags
+- [ ] Glove darning blog post
 - [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
