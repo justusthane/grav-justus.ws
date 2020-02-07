@@ -14,6 +14,7 @@ tagline: '&nbsp;for this site'
 - [ ] Glove darning blog post
 - [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
+- [ ] Add indicator for external links
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
 - [ ] Add "How does this site work?" page
