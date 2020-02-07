@@ -20,6 +20,13 @@ tagline: '&nbsp;for this site'
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
 - [ ] Add /now page
 - [ ] Add "How does this site work?" page
+- [ ] Add *Things I like* page
+    - Music
+    - Games
+    - Coffee
+    - Websites
+    - ...
+- [ ] Add *Links* page
 - [ ] Add RSS feeds
 - [ ] Add options page
     - [ ] light theme/dark theme
