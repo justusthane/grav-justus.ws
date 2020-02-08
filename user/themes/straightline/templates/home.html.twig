@@ -15,17 +15,17 @@
             {% endif %}
         {% endfor %}
 </dl>
-<dl>
-<h2>elsewhere</h2>
-<dt><a href="mailto:jg@justus.ws">e-mail</a></dt>
-<dd>: jg@justus.ws</h2>
-<dt><a href="https://photos.justus.ws">photos</a></dt>
-<dd>&nbsp;&gt;&nbsp;smugmug</dt>
-<dt><a href="https://github.com/justusthane">github</a></dt>
-<dd>&nbsp;&gt;&nbsp;code</dd>
-<dt><a href="https://keybase.io/justusthane">keybase</a></dt>
-<dd>&nbsp;&gt;&nbsp;encrypt</dd>
-</dl>
+{% if page.header.elsewhere_links %}
+    <dl>
+    <h2>elsewhere</h2>
+    {% for link in page.header.elsewhere_links %}
+        <dt><a href="{{ link.href }}">{{ link.menu }}</a></dt>
+            <dd>{{ link.tagline }}</dd>
+    {% endfor %}
+    </dl>
+{% endif %}
+
+
 
 
     </nav>
