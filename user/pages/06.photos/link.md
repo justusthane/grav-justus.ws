@@ -1,6 +1,6 @@
 ---
 title: 'Photos'
 menu: 'photos'
-tagline: '&nbsp;&lt;&nbsp;smugmug'
+tagline: '&nbsp;&gt;&nbsp;smugmug'
 address: 'https://photos.justus.ws'
 ---
