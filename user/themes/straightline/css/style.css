@@ -4,6 +4,14 @@ body {
     /*background-color: #fefefe;*/
 }
 
+h1,h2,h3,h4,h5 {
+    font-weight: normal;
+}
+
+body.home nav h1,h2,h3,h4,h5 {
+    margin: 0;
+}
+
 #header {
     text-align: center;
     font-size: 5rem;
@@ -27,7 +35,7 @@ body {
     font-size: 1.5rem;
 }
 
-#home {
+body.home nav {
     font-size: 2rem;
 }
 
@@ -70,31 +78,27 @@ a:hover {
         padding-top: 0.3rem;
     }
 
-    dl {
-        overflow:	hidden;
+    body.home nav h2 {
+        text-align: right;
+        margin: 0;
+    }
+
+    body.home dl,body.home #header {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto;
         width:		100%;
-        margin:		0;
-        padding:	0;
-        text-align:	left;
-        font-size: 1.2em;
     }
 
-    dt {
-        float:			left;
-        width:			50%;
-        margin:			0;
-        padding:		0;
-        padding-right:	0;
-        text-align:		right;
+    body.home dt {
+        grid-column: 1;
+        text-align: right;
     }
 
-    dd {
-        float:			right;
-        width:			50%;
-        margin:			0;
-        padding:		0;
-        padding-left:	0;
-        visibility:     hidden;
+    body.home dd {
+        grid-column: 2;
+        margin-left: 0;
+        visibility: hidden;
 
     }
 }

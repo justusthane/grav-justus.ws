@@ -1,8 +1,9 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
-    <nav id="home">
+    <nav>
 <dl>
+    <h2>here</h2>
         {% for page in pages.children.visible %}
             {% if page.menu != 'justus.ws' %}
             <dt>
@@ -14,6 +15,16 @@
             {% endif %}
         {% endfor %}
 </dl>
+<dl>
+<h2>elsewhere</h2>
+<dt><a href="mailto:jg@justus.ws">e-mail</a></dt>
+<dd>: jg@justus.ws</h2>
+<dt><a href="https://photos.justus.ws">photos</a></dt>
+<dd>&nbsp;&gt;&nbsp;smugmug</dt>
+<dt><a href="https://github.com/justusthane">code</a></dt>
+<dd>&nbsp;&gt;&nbsp;github</dd>
+</dl>
+
 
     </nav>
     {{ page.content }}

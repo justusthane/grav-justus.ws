@@ -1,5 +1,5 @@
 console.log("Loaded");
-$( "#home dl dt a" ).hover(
+$( "body.home dl dt a" ).hover(
   function() {
       console.log("Hover");
     $( this ).parent().next().css("visibility","visible");
