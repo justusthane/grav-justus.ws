@@ -27,7 +27,7 @@ tagline: '&nbsp;for this site'
 - [ ] Add options page
     - [ ] light theme/dark theme
         - [ ] default to device preference
-    - [ ] localstorage to indicate new items since last visit
+    - [ ] LocalStorage to indicate new items since last visit
 - [ ] Publish theme?
 - [ ] "Slow Story": use a neural network or something to generate a story at a speed of one word per day
     - I definitely don't know how to do this, but I like the idea and it might be fun to figure out?
