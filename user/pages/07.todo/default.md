@@ -4,6 +4,7 @@ menu: 'todo'
 tagline: '&nbsp;for this site'
 ---
 
+## Site
 - [x] Stop images from being sideways :\ 
    - *[This was apparently just an issue with the exif data from iPhone photos](https://stackoverflow.com/questions/20290419/why-do-my-webpage-images-appear-sideways-in-my-html-but-correct-when-in-full-scr). Opening the images in Preview and saving them fixed it.*
 - [x] Fix site tagline on mobile
@@ -17,17 +18,12 @@ tagline: '&nbsp;for this site'
 - [ ] Figure out how to unobstrusively integrate an  [h-Card](http://microformats.org/wiki/h-card) into the homepage?
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [ ] Favicon
-- [ ] FZF article
-- [ ] Glove darning blog post
 - [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
 - [ ] Add indicator for external links
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
-- [ ] Add /now page
-- [ ] Add "How does this site work?" page
 - [x] Add *Links* page
 - [ ] Add RSS feeds
-- [ ] Worm composting article?
 - [ ] Add options page
     - [ ] light theme/dark theme
         - [ ] default to device preference
@@ -35,3 +31,10 @@ tagline: '&nbsp;for this site'
 - [ ] Publish theme?
 - [ ] "Slow Story": use a neural network or something to generate a story at a speed of one word per day
     - I definitely don't know how to do this, but I like the idea and it might be fun to figure out?
+
+## Content
+- [ ] Worm composting article?
+- [ ] Glove darning blog post
+- [ ] FZF article
+- [ ] Add /now page
+- [ ] Add "How does this site work?" page
