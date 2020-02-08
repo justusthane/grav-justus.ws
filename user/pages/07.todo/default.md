@@ -4,8 +4,9 @@ menu: 'todo'
 tagline: '&nbsp;for this site'
 ---
 
-- [ ] Stop images from being sideways :\
-- [ ] Fix site tagline on mobile
+- [x] Stop images from being sideways :\ 
+   - *[This was apparently just an issue with the exif data from iPhone photos](https://stackoverflow.com/questions/20290419/why-do-my-webpage-images-appear-sideways-in-my-html-but-correct-when-in-full-scr). Opening the images in Preview and saving them fixed it.*
+- [x] Fix site tagline on mobile
 - [ ] Manual ordering for home page links
 - [ ] Split homepage into "Here" and "Elsewhere" sections
 - [ ] Add blog
