@@ -1,0 +1,17 @@
+{% extends 'partials/base.html.twig' %}
+{% set collection = page.collection() %}
+{% set collection = page.collection({ items: '@self.children', 'order': {'by': 'date', 'dir': 'desc'} }) %}
+
+{% block content %}
+    <div id="content">
+        <h1>{{header.title}}</h1>
+        <ul>
+        {% for child in collection %}
+            <li>
+                <a href="{{child.url}}">{{child.menu}}</a>
+            </li>
+        {% endfor %}
+        </ul>
+        {{ page.content }}
+    </div>
+{% endblock %}
