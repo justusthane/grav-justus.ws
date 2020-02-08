@@ -1,7 +1,7 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
-    <div id="home">
+    <nav id="home">
 <dl>
         {% for page in pages.children.visible %}
             {% if page.menu != 'justus.ws' %}
@@ -15,6 +15,6 @@
         {% endfor %}
 </dl>
 
-    </div>
+    </nav>
     {{ page.content }}
 {% endblock %}
