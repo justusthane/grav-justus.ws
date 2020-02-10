@@ -16,6 +16,6 @@ elsewhere_links:
         href: 'https://github.com/justusthane'
     - 
         menu: 'keybase'
-        tagline: : encrypt'
+        tagline: ': encrypt'
         href: 'https://keybase.io/justusthane'
 ---
