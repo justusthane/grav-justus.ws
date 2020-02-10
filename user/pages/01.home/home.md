@@ -12,10 +12,10 @@ elsewhere_links:
         href: 'https://photos.justus.ws'
     - 
         menu: 'github'
-        tagline: '&nbsp;> code'
+        tagline: ': code'
         href: 'https://github.com/justusthane'
     - 
         menu: 'keybase'
-        tagline: '&nbsp;> encrypt'
+        tagline: : encrypt'
         href: 'https://keybase.io/justusthane'
 ---
