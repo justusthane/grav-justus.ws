@@ -8,7 +8,7 @@ tagline: '&nbsp;for this site'
 - [x] Stop images from being sideways :\ 
    - *[This was apparently just an issue with the exif data from iPhone photos](https://stackoverflow.com/questions/20290419/why-do-my-webpage-images-appear-sideways-in-my-html-but-correct-when-in-full-scr). Opening the images in Preview and saving them fixed it.*
 - [x] Fix site tagline on mobile
-- [ ] Manual ordering for home page links
+- [x] Manual ordering for home page links
 - [x] Split homepage into "Here" and "Elsewhere" sections
     - [x] Figure out better way to manage homepage *elsewhere* links other than hardcoded in the template
         - *[Links now defined in home page frontmatter YAML](https://github.com/justusthane/grav-justus.ws/commit/294faf768b95e80e0b8ba2b7028cc7ca797f202e) rather than hardcoded into template. Yay!*
@@ -18,7 +18,6 @@ tagline: '&nbsp;for this site'
 - [ ] Figure out how to unobstrusively integrate an  [h-Card](http://microformats.org/wiki/h-card) into the homepage?
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [ ] Favicon
-- [ ] Add capability to include links (e.g. email address) in the main menu
 - [ ] Define the site tagline in YAML config
 - [ ] Add indicator for external links
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
