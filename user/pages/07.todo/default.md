@@ -19,6 +19,7 @@ tagline: '&nbsp;for this site'
 - [ ] Automatic ToC for long pages?
    - How to parse Markdown and pull headers into Twig template?
 - [ ] Figure out how to unobstrusively integrate an [h-Card](http://microformats.org/wiki/h-card) into the homepage?
+   - Maybe integrate with the Elsewhere section, since that's mostly links to me at other places?
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [ ] Favicon
 - [ ] Define the site tagline in YAML config
