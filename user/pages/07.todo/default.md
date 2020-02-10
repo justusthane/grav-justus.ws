@@ -23,7 +23,7 @@ tagline: '&nbsp;for this site'
    - Or "Me" section?
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [ ] Favicon
-- [ ] Define the site tagline in YAML config
+- [ ] Define the site tagline in YAML confiuser/pages/03.food/g
 - [ ] Add indicator for external links
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
    - [ ] Model after Github markdown preview checkboxes
@@ -38,6 +38,8 @@ tagline: '&nbsp;for this site'
 
 ## Content
 - [ ] Worm composting article?
+- [ ] Cast iron pan care
+- [ ] In appreciation of the bamboo spatula
 - [ ] Glove darning blog post
 - [ ] FZF article
 - [ ] Add /now page
