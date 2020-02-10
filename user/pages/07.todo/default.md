@@ -12,6 +12,7 @@ tagline: '&nbsp;for this site'
 - [x] Split homepage into "Here" and "Elsewhere" sections
     - [x] Figure out better way to manage homepage *elsewhere* links other than hardcoded in the template
         - *[Links now defined in home page frontmatter YAML](https://github.com/justusthane/grav-justus.ws/commit/294faf768b95e80e0b8ba2b7028cc7ca797f202e) rather than hardcoded into template. Yay!*
+- [ ] Resize images
 - [ ] Add blog
     - [ ] Different content types (long post, blurb, photo, link)
     - [ ] Tags
