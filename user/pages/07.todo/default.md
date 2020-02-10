@@ -17,7 +17,7 @@ tagline: '&nbsp;for this site'
     - [ ] Different content types (long post, blurb, photo, link)
     - [ ] Tags
 - [ ] Automatic ToC for long pages?
-   - How to parse Markdown and pull out headers from Twig template?
+   - How to parse Markdown and pull headers into Twig template?
 - [ ] Figure out how to unobstrusively integrate an [h-Card](http://microformats.org/wiki/h-card) into the homepage?
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [ ] Favicon
