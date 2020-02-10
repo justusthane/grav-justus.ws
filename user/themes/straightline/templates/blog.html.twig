@@ -5,13 +5,14 @@
 {% block content %}
     <div id="content">
         <h1>{{header.title}}</h1>
+        {{ content }}
         <ul>
-        {% for child in collection %}
-            <li>
-                <a href="{{child.url}}">{{child.menu}}</a>
-            </li>
-        {% endfor %}
+            {% for child in collection %}
+                <li>
+                    <a href="{{child.url}}">{{child.menu}}</a>
+                </li>
+            {% endfor %}
         </ul>
-        {{ page.content }}
+        
     </div>
 {% endblock %}
