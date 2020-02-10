@@ -32,8 +32,7 @@ tagline: '&nbsp;for this site'
         - [ ] default to device preference
     - [ ] LocalStorage to indicate new items since last visit
 - [ ] Publish theme?
-- [ ] "Slow Story": use a neural network or something to generate a story at a speed of one word per day
-    - I definitely don't know how to do this, but I like the idea and it might be fun to figure out?
+
 
 ## Content
 - [ ] Worm composting article?
@@ -41,3 +40,6 @@ tagline: '&nbsp;for this site'
 - [ ] FZF article
 - [ ] Add /now page
 - [ ] Add "How does this site work?" page
+- [ ] Self-composting page?
+- [ ] "Slow Story": use a neural network or something to generate a story at a speed of one word per day
+    - I definitely don't know how to do this, but I like the idea and it might be fun to figure out?
