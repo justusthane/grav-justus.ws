@@ -29,10 +29,12 @@ As for the washing, I just throw the pans into my dishwater after I'm done with 
 
 If your pan has developed a good non-stick seasoning, the chainmail scrubber with the dishwater takes any foodbits right off and leaves the seasoning beautifully smooth.
 
-I know the soap is controversial. Most people say to *never* let soap near your cast iron. I used to subscribe to the no-wash method. I’d just give them a quick wipe after use, and if there were stuck-on foodstuffs, I’d use some salt with a paper towel as a scouring agent. But my pans were always slighty gross and I found the results not that great anyway. I think the salt scrub can damage the seasoning.
+I know the soap is controversial. Most people say to *never* let soap near your cast iron. I used to subscribe to the no-wash method. I’d just give them a quick wipe after use, and if there were stuck-on foodstuffs, I’d use some salt with a paper towel as a scouring agent. But my pans were always a little gross and I found the results not that great anyway. I think the salt scrub can damage the seasoning.
 
 ## Drying
-You do want to make sure your pans are totally dry before you put them away, or they'll rust (if they do develop a little surface rust, just scrub it off). I used to either throw them in the oven (takes too long) or put them on a burner (if you forget about them you risk scorching the seasoning). Now I dry them by putting them on a burner upside down. They dry quickly and you don't risk damaging the seasoning.
+You do want to make sure your pans are totally dry before you put them away or they'll rust. I used to either throw them in the oven (takes too long) or put them on a burner (if you forget about them you risk scorching the seasoning). Now I dry them by putting them on a burner upside down. They dry quickly and you don't risk damaging the seasoning.
+
+If they do develop a little surface rust, just scrub it off with a copper scrubber or steel wool—you'll probably have to re-season afterwards).
 
 ## Restoring
 Some day I'll write about restoring old rusty cast iron. A cast iron pan is never broken, only unloved.
