@@ -8,7 +8,7 @@ A search for [cast iron pan care](https://duckduckgo.com/?t=ffab&q=cast+iron+pan
 Here’s what I’ve found works best for me.
 
 ## Seasoning
-When people talk about “seasoning” cast iron, they’re talking about the building up of a solidified (“*polymerized*”) layer of oil on the surface of the pan. It’s this solid layer that gives the pan non-stick properties.
+When people talk about “seasoning” cast iron, they’re talking about the building up of a solidified (“*polymerized*”) layer of oil on the surface of the pan. It’s this solid layer that gives the pan ~magical~ non-stick properties.
 
 I’ve seen articles [like this one](http://sherylcanter.com/wordpress/2010/01/a-science-based-technique-for-seasoning-cast-iron/) advocating the use of flaxseed oil because of its polymerizing properties. It’s expensive though, so I haven’t bothered. I tend to start by just spreading a thin layer (like, very thin—pour some oil in and then wipe it out with a paper towel) of vegetable oil on the pan, and baking it in the oven for about an hour at 350F. Repeat as/if needed.
 
