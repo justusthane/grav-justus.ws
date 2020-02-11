@@ -16,7 +16,7 @@ After that, the seasoning will continue to improve over time (with proper care) 
 
 ## Use
 Cast iron is great. Just use it. Just a couple notes:
-- If you get an empty pan really hot, you'll notice the seasoning will look sort of dry. Just put some oil on it before it cools down.
+- If you get an empty pan really hot, you'll notice the seasoning will look sort of dry or splotchy. Just put some oil on it before it cools down.
 - Try not to cook really acidic things—or example, simmering spaghetti sauce for an extended amount of time. The acid will eat away your seasoning.
 - Wash it when you're done with it. Try not to leave crusty food bits sitting in it for days.
 
@@ -33,3 +33,6 @@ I know the soap is controversial. Most people say to *never* let soap near your 
 
 ## Drying
 You do want to make sure your pans are totally dry before you put them away, or they'll rust (if they do develop a little surface rust, just scrub it off). I used to either throw them in the oven (takes too long) or put them on a burner (if you forget about them you risk scorching the seasoning). Now I dry them by putting them on a burner upside down. They dry quickly and you don't risk damaging the seasoning.
+
+## Restoring
+Some day I'll write about restoring old rusty cast iron. A cast iron pan is never broken, only unloved.
