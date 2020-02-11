@@ -18,6 +18,7 @@ After that, the seasoning will continue to improve over time (with proper care) 
 Cast iron is great. Just use it. Just a couple notes:
 - If you get an empty pan really hot, you'll notice the seasoning will look sort of dry. Just put some oil on it before it cools down.
 - Try not to cook really acidic things—or example, simmering spaghetti sauce for an extended amount of time. The acid will eat away your seasoning.
+- Wash it when you're done with it. Try not to leave crusty food bits sitting in it for days.
 
 ## Washing
 My sister got me a [chainmail cast iron scrubber](https://www.amazon.com/Ringer-Original-Stainless-Cleaner-Patented/dp/B00FKBR1ZG?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00FKBR1ZG) for Christmas a few years ago, and it has made the single biggest difference for my pans. I can’t recommend them enough.
