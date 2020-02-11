@@ -15,8 +15,8 @@ I’ve seen articles [like this one](http://sherylcanter.com/wordpress/2010/01/a
 After that, the seasoning will continue to improve over time (with proper care) as you cook in the pan. Just remember to use lots of oil at first—the non-stick properties won’t be perfect yet.
 
 ## Use
-Cast iron is great. Just use it. Just a few things to try to avoid:
-- Try not to get it really hot without anything in it. You risk scorching and ruining your seasoning.
+Cast iron is great. Just use it. Just a couple notes:
+- If you get an empty pan really hot, you'll notice the seasoning will look sort of dry. Just put some oil on it before it cools down.
 - Try not to cook really acidic things—or example, simmering spaghetti sauce for an extended amount of time. The acid will eat away your seasoning.
 
 ## Washing
