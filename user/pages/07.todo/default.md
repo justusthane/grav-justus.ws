@@ -41,7 +41,7 @@ tagline: '&nbsp;for this site'
 
 ## Content
 - [ ] Worm composting article?
-- [ ] Cast iron pan care
+- [x] [Cast iron pan care](https://justus.ws/food/care-of-cast-iron-pans)
 - [ ] In appreciation of the bamboo spatula
 - [ ] Glove darning blog post
 - [ ] FZF article
