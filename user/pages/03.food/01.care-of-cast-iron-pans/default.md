@@ -20,16 +20,15 @@ Cast iron is great. Just use it. Just a couple notes:
 - Try not to cook really acidic things—or example, simmering spaghetti sauce for an extended amount of time. The acid will eat away your seasoning.
 
 ## Washing
-There are a *lot* of opinions of how to properly wash cast iron. The thing most people agree on is don’t use soap…except I do.
+My sister got me a [chainmail cast iron scrubber](https://www.amazon.com/Ringer-Original-Stainless-Cleaner-Patented/dp/B00FKBR1ZG?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00FKBR1ZG) for Christmas a few years ago, and it has made the single biggest difference for my pans. I can’t recommend them enough.
 
-I used to subscribe to the no-wash method. I’d just give them a quick wipe after use, and if there were stuck-on foodstuffs, I’d use some salt with a paper towel as a scouring agent.
-
-I don’t recommend this. No one *likes* having dirty pans, and I found the results not that great anyway. I think the salt scrub can damage the seasoning.
-
-Now I just throw my cast iron into the sink after I’ve washed the rest of the dishes, when the water is a little scummy and the soap has mostly broken down. 
+As for the washing, I just throw the pans into my dishwater after I'm done with the rest of the dishes and the water is a little scummy and the soap has mostly broken down.
 
 ![](default/IMG_3508.jpeg)
 
-My sister got me a [chainmail cast iron scrubber](https://www.amazon.com/Ringer-Original-Stainless-Cleaner-Patented/dp/B00FKBR1ZG?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00FKBR1ZG) for Christmas a few years ago, and it has made the single biggest difference for my pans. I can’t recommend them enough. They get food off great, and leave the seasoning beautiful and smooth.
+The dishwater method paired with the chainmail scrubber leaves the pans absolutely beautiful and the seasoning silky smooth.
 
+I know the soap is controversial. Most people say to *never* let soap near your cast iron. I used to subscribe to the no-wash method. I’d just give them a quick wipe after use, and if there were stuck-on foodstuffs, I’d use some salt with a paper towel as a scouring agent. But my pans were always slighty gross and I found the results not that great anyway. I think the salt scrub can damage the seasoning.
 
+## Drying
+You do want to make sure your pans are totally dry before you put them away, or they'll rust (if they do develop a little surface rust, just scrub it off). I used to either throw them in the oven (takes too long) or put them on a burner (if you forget about them you risk scorching the seasoning). Now I dry them by putting them on a burner upside down. They dry quickly and you don't risk damaging the seasoning.
