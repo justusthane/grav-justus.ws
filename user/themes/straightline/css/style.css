@@ -71,6 +71,14 @@ body.home nav {
     padding-left: 1rem;
 }
 
+.blogPost .title {
+    margin-bottom: .5rem;
+}
+
+.blogPost .blurb {
+    font-size: 1.5rem;
+}
+
 .blogPost .content p {
     margin: 0;
 }

@@ -11,8 +11,7 @@
                 <section class="blogPost">
                     <div class="title">{% if child.header.title %}<h2>{{ child.title }}</h2>{% endif %}</div>
                     <div class="date"><a href="{{child.url}}">{{ child.header.date|date("Y-m-d") }}</a></div>
-                    <div class="content">
-                        {{ child.template }}
+                    <div class="content {% if not child.header.title %}blurb{% endif %}">
                         {{ child.content }}
                     </div>
                 </section>
