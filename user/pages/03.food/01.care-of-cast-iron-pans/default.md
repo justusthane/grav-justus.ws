@@ -27,7 +27,7 @@ As for the washing, I just throw the pans into my dishwater after I'm done with 
 
 ![](default/IMG_3508.jpeg)
 
-The dishwater method paired with the chainmail scrubber leaves the pans absolutely beautiful and the seasoning silky smooth.
+If your pan has developed a good non-stick seasoning, the chainmail scrubber with the dishwater takes any foodbits right off and leaves the seasoning beautifully smooth.
 
 I know the soap is controversial. Most people say to *never* let soap near your cast iron. I used to subscribe to the no-wash method. I’d just give them a quick wipe after use, and if there were stuck-on foodstuffs, I’d use some salt with a paper towel as a scouring agent. But my pans were always slighty gross and I found the results not that great anyway. I think the salt scrub can damage the seasoning.
 
