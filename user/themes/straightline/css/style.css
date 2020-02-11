@@ -1,6 +1,6 @@
 body {
     font-family: ;
-    color: #5C5C5C;
+    color: #404040;
     /*background-color: #fefefe;*/
 }
 
@@ -42,11 +42,41 @@ body.home nav {
 #content {
     max-width: 800px;
     margin: 0 auto;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
 }
+
+
 
 #content img {
     width: 100%;
+}
+
+.blogPost {
+    padding-bottom: 2rem;
+}
+
+.blogPost .date {
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.blogPost .date a {
+    text-decoration: none;
+}
+
+.blogPost .content {
+    border-left: 1px solid #404040;
+    padding-left: 1rem;
+}
+
+.blogPost .content p {
+    margin: 0;
+}
+
+.blogPost .content p + p,.blogPost .content h2 + p  {
+    margin: 1em 0 1em 0;
 }
 
 #back {
@@ -99,6 +129,25 @@ a:hover {
         grid-column: 2;
         margin-left: 0;
         visibility: hidden;
+    }
+    .blogPost {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        grid-template-rows: auto auto;
+    }
 
+    .blogPost .title {
+        grid-column-start: 2;
+        grid-row-start: 1;
+    }
+
+    .blogPost .date {
+        grid-column-start: 1;
+        grid-row-start: 2;
+    }
+
+    .blogPost .content {
+        grid-column-start: 2;
+        grid-row-start: 2;
     }
 }
