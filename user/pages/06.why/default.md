@@ -9,7 +9,7 @@ It's a mild allergic reaction to social media. It’s a place to put things I ca
 
 It's inspired by [grupstrarules.com](https://grupstrarules.com), the website of a guy I thought was pretty cool in high school, and [bobbyburgess.net/journal](https://web.archive.org/web/20060908213315/http://www.bobbyburgess.net/journal/?date=20060321), a blog I used to love. All that remains of Bobby Burgess is what can be found on the Wayback Machine, which isn't much. You got the sense from his blog he had a hard life. I wonder what happened to him.
 
-I also believe it's in your best interest to control your online brand, no matter who you are. You should determine the first result when someone [googles](https://duckduckgo.com/?q=justus+grunow) your name. Don't hand over control of your digital life.
+I also believe it's in your best interest to control your online brand, no matter who you are. You should determine the first result when someone [googles](https://duckduckgo.com/?q=justus+grunow) your name, not Facebook or LinkedIn. Don't give up control of your digital identity. (If your goal is to be anonymous, that's cool too.)
 
 ## About the format of the site
 
