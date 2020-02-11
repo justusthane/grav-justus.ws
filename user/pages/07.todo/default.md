@@ -13,7 +13,8 @@ tagline: '&nbsp;for this site'
     - [x] Figure out better way to manage homepage *elsewhere* links other than hardcoded in the template
         - *[Links now defined in home page frontmatter YAML](https://github.com/justusthane/grav-justus.ws/commit/294faf768b95e80e0b8ba2b7028cc7ca797f202e) rather than hardcoded into template. Yay!*
 - [ ] Resize images
-- [ ] Add blog
+- [x] Add blog
+    - *[Made blog](https://github.com/justusthane/grav-justus.ws/commit/e3a307f5c5976b22ed4dd1e2932df896f8dbdaf6)!*
     - [ ] Different content types (long post, blurb, photo, link)
     - [ ] Tags
 - [ ] Automatic ToC for long pages?
