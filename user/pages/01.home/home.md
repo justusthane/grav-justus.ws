@@ -1,12 +1,7 @@
 ---
 title: "justus.ws"
-body_classes: 'home'
+body_classes: 'home h-card'
 elsewhere_links:
-    -
-        menu: 'justus grunow'
-        tagline: '&nbsp;<- that&rsquo;s my name'
-        href: 'https://justus.ws'
-        class: 'u-url u-uid'
     -
         menu: 'e-mail'
         tagline: ': jg@justus.ws'
