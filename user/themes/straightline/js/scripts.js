@@ -1,10 +1,10 @@
 console.log("Loaded");
-$( "body.home dl dt" ).hover(
+$( "body.home dl dt a" ).hover(
   function() {
       console.log("Hover");
-    $( this ).next().css("visibility","visible");
+    $( this ).parent().next().css("visibility","visible");
   }, function() {
-    $( this ).next().css("visibility","hidden");
+    $( this ).parent().next().css("visibility","hidden");
   }
 );
 
