@@ -1,5 +1,6 @@
 absolute_urls: false
 timezone: 'America/Chicago'
+force_ssl: true
 
 home:
   alias: '/home'
