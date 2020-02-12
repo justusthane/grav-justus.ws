@@ -1,7 +1,7 @@
 {% extends 'partials/base.html.twig' %}
 {% block content %}
     <div id="content">
-        <h1>{% if page.parent.url != home_url %}<a href="{{page.parent.url}}">{{page.parent.slug}}</a>/{% endif %}{{page.header.title}}</h1>
+        <h1>{% if page.parent.url == home_url %}<a href="/">home</a>{% else %}<a href="{{page.parent.url}}">{{page.parent.slug}}</a>{% endif %}/{{header.title}}</h1>
         {{ page.content }}
         <div id="back">
             {% if page.parent.url != home_url %}<a href="{{page.parent.url}}">&lt; more {{page.parent.menu}}</a>{% endif %}
