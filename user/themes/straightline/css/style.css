@@ -56,6 +56,10 @@ body.home nav {
     padding-bottom: 2rem;
 }
 
+.date {
+    font-size: 0.8rem;
+}
+
 .blogPost .date {
     padding-right: 1rem;
     padding-bottom: 1rem;
