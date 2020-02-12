@@ -26,8 +26,8 @@ tagline: '&nbsp;for this site'
    - Or "Me" section?
    - [ ] Eventually move the h-card to a footer below an hr
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
-- [ ] Favicon
-- [ ] Define the site tagline in YAML confiuser/pages/03.food/g
+- [x] Favicon
+- [ ] Define the site tagline in YAML
 - [ ] Add indicator for external links
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
    - [ ] Model after Github markdown preview checkboxes
