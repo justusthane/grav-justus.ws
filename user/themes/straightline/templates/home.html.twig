@@ -18,7 +18,6 @@
 {% if page.header.elsewhere_links %}
     <dl>
     <h2>elsewhere:</h2>
-    <dt class="p-name">justus grunow</dt>
     {% for link in page.header.elsewhere_links %}
         <dt><a href="{{ link.href }}" class="{{ link.class }}">{{ link.menu }}</a></dt>
             <dd>{{ link.tagline }}</dd>
