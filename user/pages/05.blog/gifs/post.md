@@ -1,5 +1,5 @@
 ---
-title: GIFs of friends
+title: GIFs
 ---
 I like making gifs of my friends.
 
