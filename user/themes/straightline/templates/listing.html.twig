@@ -8,7 +8,7 @@
         <ul>
         {% for child in collection %}
             <li>
-                <a href="{{child.url}}">{{child.menu}}</a>
+                <a href="{{child.url}}">{{child.menu}}</a> (published {{ child.header.date|date("Y-m-d")}}{% if child.header.updated %}, updated {{ child.header.updated|date("Y-m-d") }}{% endif %})
             </li>
         {% endfor %}
         </ul>

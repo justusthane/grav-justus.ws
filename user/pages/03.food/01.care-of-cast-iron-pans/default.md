@@ -1,5 +1,7 @@
 ---
 title: Care of cast iron pans
+date: '2/10/2020'
+updated: '2/11/2020'
 ---
 ![](default/IMG_3510.jpeg?cropResize=800,800)
 
