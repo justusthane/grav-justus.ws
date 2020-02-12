@@ -6,6 +6,7 @@ elsewhere_links:
         menu: 'e-mail'
         tagline: ': jg@justus.ws'
         href: 'mailto:jg@justus.ws'
+        class: 'u-email'
     - 
         menu: 'photos'
         tagline: '&nbsp;> smugmug'
