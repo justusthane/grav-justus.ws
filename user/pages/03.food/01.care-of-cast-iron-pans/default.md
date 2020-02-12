@@ -1,7 +1,7 @@
 ---
 title: Care of cast iron pans
 ---
-![](default/IMG_3510.jpeg)
+![](default/IMG_3510.jpeg?cropResize=800,800)
 
 A search for [cast iron pan care](https://duckduckgo.com/?t=ffab&q=cast+iron+pan+care) yields a *lot* of results. There are as many opinions on how to properly use and take care of cast iron pans as there are people who own cast iron pans.
 
@@ -25,7 +25,7 @@ My sister got me a [chainmail cast iron scrubber](https://www.amazon.com/Ringer-
 
 As for the washing, I just throw the pans into my dishwater after I'm done with the rest of the dishes and the water is a little scummy and the soap has mostly broken down.
 
-![](default/IMG_3508.jpeg)
+![](default/IMG_3508.jpeg?cropResize=800,800)
 
 If your pan has developed a good non-stick seasoning, the chainmail scrubber with the dishwater takes any foodbits right off and leaves the seasoning beautifully smooth.
 
