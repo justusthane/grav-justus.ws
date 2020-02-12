@@ -19,4 +19,4 @@ I would like to know the date it was published on, but it doesn't make sense to 
 
 I'd rather treat each "post" as a sort of living page within its parent category which can be updated and ammended as needed. I feature these categories on the home page for easy access.
 
-I use the [/blog] feature as a sort of meta log to note content updates in other areas of the site.
+I use the [/blog](/blog) page as a sort of meta log of content updates in other areas of the site.
