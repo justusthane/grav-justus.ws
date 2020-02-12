@@ -1,15 +1,10 @@
 {% extends 'partials/base.html.twig' %}
-{% set parent = page.collection({ items: '@self.parent'}) %}
-
 {% block content %}
     <div id="content">
-        <h1>{{page.header.title}}</h1>
+        <h1>{% if page.parent.url != home_url %}<a href="{{page.parent.url}}">{{page.parent.slug}}</a>/{% endif %}{{page.header.title}}</h1>
         {{ page.content }}
         <div id="back">
-            {% for page in parent %}
-                {# Link to the parent page unless the parent page is home...TODO find a cleaner way to do this #}
-                {% if page.url != home_url %}<a href="{{page.url}}">&lt; more {{page.menu}}</a>{% endif %}
-            {% endfor %}
+            {% if page.parent.url != home_url %}<a href="{{page.parent.url}}">&lt; more {{page.parent.menu}}</a>{% endif %}
         </div>
     </div>
 {% endblock %}
