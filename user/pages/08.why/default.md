@@ -9,7 +9,9 @@ It's a mild allergic reaction to social media. It’s a place to put things I ca
 
 It's inspired by [grupstrarules.com](https://grupstrarules.com), the website of a guy I thought was pretty cool in high school, and [bobbyburgess.net/journal](https://web.archive.org/web/20060908213315/http://www.bobbyburgess.net/journal/?date=20060321), a blog I used to love. All that remains of Bobby Burgess is what can be found on the Wayback Machine, which isn't much. You got the sense from his blog he had a hard life. I wonder what happened to him.
 
-I also believe it's in your best interest to control your online brand, no matter who you are. You should determine the first result when someone [googles](https://duckduckgo.com/?q=justus+grunow) your name, not Facebook or LinkedIn. Don't give up control of your digital identity. (If your goal is to be anonymous, that's cool too.)
+I also believe it's in your best interest to control your online brand, no matter who you are. You should determine the first result when someone [googles](https://duckduckgo.com/?q=justus+grunow) your name, not Facebook or LinkedIn. Don't give up control of your digital identity.
+
+Or maybe your goal is to be anonymous, so you can publish your thoughts or play with ideas without being linked to your real-life identity. That's cool too.
 
 ## About the format of the site
 
@@ -19,4 +21,4 @@ I would like to know the date it was published on, but it doesn't make sense to 
 
 I'd rather treat each "post" as a sort of living page within its parent category which can be updated and ammended as needed. I feature these categories on the home page for easy access.
 
-I use the [/blog] feature as a sort of meta log to note content updates in other areas of the site.
+I use the [/blog](/blog) page as a sort of meta log of content updates in other areas of the site.
