@@ -6,7 +6,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: straightline
+  theme: typo
   markdown:
     extra: false
   process:

@@ -12,7 +12,7 @@ elsewhere_links:
         tagline: '&nbsp;> smugmug'
         href: 'https://photos.justus.ws'
     - 
-        menu: 'github'
+        menu: '<i class="fas fa-github"></i>github'
         tagline: ': code'
         href: 'https://github.com/justusthane'
     - 

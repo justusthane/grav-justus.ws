@@ -2,6 +2,12 @@ body {
     font-family: ;
     color: #404040;
     /*background-color: #fefefe;*/
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
 }
 
 h1,h2,h3,h4,h5 {
@@ -12,41 +18,40 @@ body.home nav h1,h2,h3,h4,h5 {
     margin: 0;
 }
 
+#wrapper {
+}
+
 #header {
     text-align: center;
-    font-size: 5rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    font-size: 3rem;
+    font-family: courier;
+    flex: 1 1 0;
 }
 
 #header div {
 }
 
 #header .logo {
-    text-align: right;
-    flex: 1 1 0;
 }
 
 #header .tagline {
-    flex: 1 1 0;
-    text-align: left;
     font-size: 1.5rem;
 }
 
 body.home nav {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 #content {
-    max-width: 800px;
-    margin: 0 auto;
     font-size: 1.3rem;
-    line-height: 1.8rem;
+    line-height: 1.3;
+    flex: 1 1 0;
 }
 
-
+.home #content dl {
+    font-size: 2rem;
+    margin-top: 0;
+}
 
 #content img {
     width: 100%;
@@ -112,36 +117,76 @@ a:hover {
 
 @media only screen and (min-width: 625px) {
 
-    #header {
-        flex-direction: row;
+    #wrapper {
+        position: absolute;
     }
+
+    #header {
+        position: sticky;
+        top: 0;
+        width: 48vw;
+        float:left;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #header-inner {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
 
     #header .tagline {
         padding-left: 10px;
         padding-top: 0.3rem;
     }
 
+    #content {
+        min-height: 100vh;
+        width: 48vw;
+        float: right;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #content  > div {
+        border-left: 3px solid #404040;
+        padding-left: 1rem;
+        margin: 1rem 0 1rem 0;
+    }
+
+    .sticky {
+        position: sticky;
+        top:0;
+    }
+
+    #header .sticky {
+        height: 100%;
+        margin: 0 auto;
+    }
+
     body.home nav h2 {
-        text-align: right;
         margin: 0;
     }
 
-    body.home dl,body.home #header {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-template-rows: auto;
-        width:		100%;
+    body.home dl {
     }
 
     body.home dt {
-        grid-column: 1;
-        text-align: right;
+        display: block;
+        float:left;
+        clear: left;
     }
 
     body.home dd {
-        grid-column: 2;
         margin-left: 0;
+        display: block;
         visibility: hidden;
+        float: left;
     }
     .blogPost {
         display: grid;

@@ -1,15 +1,15 @@
-name: Straightline
+name: loserprint
 version: 0.1.0
 description: A very lightweight theme
 icon: rebel
 author:
   name: Justus Grunow
   email: jg@justus.ws
-homepage: https://github.com/justusthane/grav-theme-straightline
+homepage: https://github.com/justusthane/grav-theme-loserprint
 demo: http://demo.yoursite.com
 keywords: grav, theme, etc
-bugs: https://github.com/justusthane/grav-theme-straightline/issues
-readme: https://github.com/justusthane/grav-theme-straightline/blob/develop/README.md
+bugs: https://github.com/justusthane/grav-theme-loserprint/issues
+readme: https://github.com/justusthane/grav-theme-loserprint/blob/develop/README.md
 license: MIT
 
 form:

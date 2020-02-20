@@ -16,6 +16,7 @@
 
 {% block stylesheets %}
     {% do assets.addCss('theme://css/style.css', 98) %}
+    {% do assets.addCss('theme://css/fontawesome-all.min.css', 100) %}
 {% endblock %}
 
 {% block javascripts %}
@@ -32,7 +33,10 @@
 
 {% block header %}
     <div id="header">
-        <div class="logo"><a href="{{ base_url_absolute }}" class="u-url u-uid" rel="me">justus.ws</a></div> <div class="tagline">a minor allergic reaction<br>to social media</div>
+        <div class="logo"><a href="{{ base_url_absolute }}" class="u-url u-uid p-name" rel="me">justus grunow</a></div> <div class="tagline">my home on the cybernet</div>
+        <div class="elsewhere">
+            <a href="mailto:jg@justus.ws" data-label="jg@justus.ws"><i class="far fa-envelope"></i></a> <a href="https://photos.justus.ws" data-label="photos"><i class="fas fa-camera"></i></a> <a href="https://github.com/justusthane" data-label="code"><i class="fab fa-github"></i></a> <a href="https://keybase.io/justusthane" data-label="encrypt"><i class="fab fa-keybase"></i></a>
+        </div>
     </div>
 {% endblock %}
 

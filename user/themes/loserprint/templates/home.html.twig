@@ -1,9 +1,7 @@
 {% extends 'partials/base.html.twig' %}
 
 {% block content %}
-    <nav>
 <dl>
-    <h2>here</h2>
         {% for page in pages.children.visible %}
             {% if page.menu != 'justus.ws' %}
             <dt>
@@ -15,20 +13,5 @@
             {% endif %}
         {% endfor %}
 </dl>
-{% if page.header.elsewhere_links %}
-    <dl>
-    <h2>elsewhere:</h2>
-    <dt class="p-name">justus grunow</dt>
-    {% for link in page.header.elsewhere_links %}
-        <dt><a href="{{ link.href }}" class="{{ link.class }}">{{ link.menu }}</a></dt>
-            <dd>{{ link.tagline }}</dd>
-    {% endfor %}
-    </dl>
-{% endif %}
-
-
-
-
-    </nav>
     {{ page.content }}
 {% endblock %}

@@ -1,0 +1,63 @@
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+<!DOCTYPE html>
+<html lang="{{ grav.language.getActive ?: grav.config.site.default_lang }}">
+<head>
+{% block head %}
+    <meta charset="utf-8" />
+    <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include 'partials/metadata.html.twig' %}
+
+    <link rel="icon" type="image/png" href="{{ url('theme://images/justus.png') }}" />
+    <link rel="canonical" href="{{ page.url(true, true) }}" />
+{% endblock head %}
+
+{% block stylesheets %}
+    {% do assets.addCss('theme://css/style.css', 98) %}
+    {% do assets.addCss('theme://css/fontawesome-all.min.css', 100) %}
+{% endblock %}
+
+{% block javascripts %}
+    {% do assets.addJs('jquery', 100) %}
+    {% do assets.addJs('theme://js/scripts.js', {group: 'bottom'}) %}
+{% endblock %}
+
+{% block assets deferred %}
+    {{ assets.css()|raw }}
+    {{ assets.js()|raw }}
+{% endblock %}
+</head>
+<body id="top" class="{{ page.header.body_classes }}">
+<div id="wrapper">
+{% block header %}
+    <div id="header">
+        <div id="header-inner">
+        <div class="logo"><a href="{{ base_url_absolute }}" class="u-url u-uid p-name" rel="me">Justus Grunow</a></div> 
+        <div class="tagline">
+            <p><a href="mailto:jg@justus.ws"><i class="far fa-envelope"></i></a> <a href="https://photos.justus.ws"><i class="fas fa-camera"></i></a> <a href="https://github.com/justusthane"><i class="fab fa-github"></i></a> <a href="https://keybase.io/justusthane"><i class="fab fa-keybase"></i></a></p>
+        </div>
+    </div>
+    </div>
+{% endblock %}
+
+{% block body %}
+    <div id="content">
+        <div>
+        {% block content %}{% endblock %}
+
+            </div>
+    </div>
+{% endblock %}
+
+</div>
+{% block footer %}
+{% endblock %}
+
+{% block bottom %}
+    {{ assets.js('bottom')|raw }}
+{% endblock %}
+
+</body>
+</html>

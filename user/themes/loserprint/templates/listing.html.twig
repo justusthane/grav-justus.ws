@@ -1,0 +1,15 @@
+{% extends 'partials/base.html.twig' %}
+{% set collection = page.collection() %}
+{% set collection = page.collection({ items: '@self.children', 'order': {'by': 'date', 'dir': 'desc'} }) %}
+
+{% block content %}
+        <h1>{% if page.parent.url == home_url %}<a href="/">home</a>{% else %}<a href="{{page.parent.url}}">{{page.parent.slug}}</a>{% endif %}/{{header.title}}</h1>
+        <ul>
+        {% for child in collection %}
+            <li>
+                <a href="{{child.url}}">{{child.menu}}</a> <span class="date">(published {{ child.header.date|date("Y-m-d")}}{% if child.header.updated %}, updated {{ child.header.updated|date("Y-m-d") }}{% endif %})</span>
+            </li>
+        {% endfor %}
+        </ul>
+        {{ page.content }}
+{% endblock %}
