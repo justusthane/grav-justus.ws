@@ -25,7 +25,7 @@ $( ' .elsewhere a ').hover(
         $( ' .tagline ' ).html( $( this ).attr('data-label') ) ;
     },
     function() {
-        $(' .tagline ').css("height": "auto");
+        $(' .tagline ').css("height", "auto");
         $(' .tagline ').html( content );
     }
 );
