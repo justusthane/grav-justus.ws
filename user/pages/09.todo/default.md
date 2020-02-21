@@ -20,11 +20,11 @@ tagline: '&nbsp;for this site'
     - [ ] Tags
 - [ ] Automatic ToC for long pages?
    - How to parse Markdown and pull headers into Twig template?
-- [ ] On listing pages show date published/date updated
+- [x] On listing pages show date published/date updated
 - [x] Figure out how to unobstrusively integrate an [h-Card](http://microformats.org/wiki/h-card) into the homepage?
    - Maybe integrate with the Elsewhere section, since that's mostly links to me at other places?
    - Or "Me" section?
-   - [ ] Eventually move the h-card to a footer below an hr
+   - [ ] ~~Eventually move the h-card to a footer below an hr~~
 - [ ] [Semantic elements](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 - [x] Favicon
 - [ ] Define the site tagline in YAML
