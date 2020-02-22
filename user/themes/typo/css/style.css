@@ -104,7 +104,9 @@ a,a:visited {
 
 a:hover {
 	text-decoration:    none;
-	color:				#FF4826;
+	/*color:		#FF4826;*/
+    color:              #f2b200;
+    
 }
 
 .comingsoon {
