@@ -38,6 +38,7 @@ tagline: '&nbsp;for this site'
         - [ ] default to device preference
     - [ ] LocalStorage to indicate new items since last visit
 - [ ] Publish theme?
+- [ ] In-line links to load image on demand. Identify with little photo icon (similar to external links). 
 
 
 ## Content
