@@ -40,7 +40,8 @@ tagline: '&nbsp;for this site'
 - [ ] Publish theme?
 - [ ] WebMentions
 - [ ] Comments
-
+- [ ] In-line links to load image on demand. Identify with little photo icon (similar to external links). 
+    - button to load all images in page/post
 
 ## Content
 - [ ] Worm composting article?
