@@ -38,6 +38,8 @@ tagline: '&nbsp;for this site'
         - [ ] default to device preference
     - [ ] LocalStorage to indicate new items since last visit
 - [ ] Publish theme?
+- [ ] WebMentions
+- [ ] Comments
 
 
 ## Content
