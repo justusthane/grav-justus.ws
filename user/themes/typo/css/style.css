@@ -1,6 +1,5 @@
 body {
     font-family: ;
-    color: #404040;
     /*background-color: #fefefe;*/
 }
 
@@ -97,17 +96,6 @@ body.home nav {
     font-size: 2.5rem;
 }
 
-a,a:visited {
-	text-decoration:    underline;
-    color:              #0000EE;
-}
-
-a:hover {
-	text-decoration:    none;
-	/*color:		#FF4826;*/
-    color:              #f2b200;
-    
-}
 
 .comingsoon {
     text-decoration: line-through;
@@ -165,5 +153,48 @@ a:hover {
     .blogPost .content {
         grid-column-start: 2;
         grid-row-start: 2;
+    }
+}
+    body {
+        color: #404040;
+    }
+    a,a:visited {
+        text-decoration:    underline;
+        color:              #024def;
+    }
+
+    a:hover {
+        text-decoration:    none;
+        /*color:		#FF4826;*/
+        color:              #f2b200;
+    }
+
+@media (prefers-color-scheme: dark) {
+    body.color-auto {
+        background-color: #100e17;
+        color: #fff;
+    }
+
+    body.color-auto a, body.color-auto a:visited {
+        color: #02c4ef;
+    }
+
+    body.color-auto a:hover {
+        color: #f9c536;
+    }
+}
+
+body.color-dark {
+    body.color-auto {
+        background-color: #100e17;
+        color: #fff;
+    }
+
+    body.color-auto a, body.color-auto a:visited {
+        color: #02c4ef;
+    }
+
+    body.color-auto a:hover {
+        color: #f9c536;
     }
 }
