@@ -34,7 +34,7 @@ tagline: '&nbsp;for this site'
 - [ ] Define the site tagline in YAML
 - [ ] Add indicator for external links
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
-   - [ ] Model after Github markdown preview checkboxes
+   - Model after Github markdown preview checkboxes
 - [x] Add *Links* page
 - [ ] Add RSS feeds
 - [ ] Add options page
