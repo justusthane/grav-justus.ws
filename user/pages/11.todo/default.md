@@ -16,7 +16,11 @@ tagline: '&nbsp;for this site'
 - [ ] Fix disappearing taglines on small site
 - [x] Make blog
     - *[Made blog](https://github.com/justusthane/grav-justus.ws/commit/e3a307f5c5976b22ed4dd1e2932df896f8dbdaf6)!*
-    - [ ] Different content types (long post, blurb, photo, link)
+    - [ ] Different content types (long post, blurb, photo, link, etc)
+      - Trying to figure out how to embed the posts on the blog page using the partials template corresponding to the post type. The problem is that the normal way of embedding, `{% include 'partials/post.md' with {'page': 'item'} %}`, explicitly defines the template, where I want to use a template depending on the embedded page type (e.g. photo.md should use partials/photo.twig.html).
+         - One possibility might be to build the blog as a modular page, which appears to do this automatically. However, I'm not sure if that will work since each post should also be accessible individually by its own URL
+         - It also appears from the [Twig documentation](https://twig.symfony.com/doc/2.x/tags/include.html) that the template name can be a Twig expression, so there might be some room to play there.
+         - I've also posted on the Grav forum looking for help.
     - [ ] Tags
 - [ ] Automatic ToC for long pages?
    - How to parse Markdown and pull headers into Twig template?
