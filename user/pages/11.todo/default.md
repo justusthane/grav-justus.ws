@@ -58,3 +58,4 @@ tagline: '&nbsp;for this site'
 - [ ] Self-composting page?
 - [ ] "Slow Story": use a neural network or something to generate a story at a speed of one word per day
     - I definitely don't know how to do this, but I like the idea and it might be fun to figure out?
+- [ ] Cybersecurity for regular folks
