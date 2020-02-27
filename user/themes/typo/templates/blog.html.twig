@@ -13,6 +13,9 @@
                     <div class="date"><a href="{{child.url}}">{{ child.header.date|date("Y-m-d") }}</a></div>
                     <div class="content {% if not child.header.title %}blurb{% endif %}">
                         {{ child.content }}
+                        {% if child.template == 'partials/blurb.html.twig' %}
+                        {% include 'partials/blurb.html.twig' with {blog: page, page: child} %}
+                        {% endif %}
                     </div>
                 </section>
             {% endfor %}
