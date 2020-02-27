@@ -6,6 +6,4 @@ Marika and Biagio bought a house above Lincoln Park. It's a pretty significant p
 
 A friend of theirs said, "You guys took the strategy of buying the worst house in the neighborhood. Nice!"
 
-I'm having a little house envy,
-So I'm going to live through them vicariously on this page. 
-
+I'm having a little house envy, so I'm going to live vicariously through them and follow their progress on this page. 
