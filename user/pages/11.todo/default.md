@@ -38,8 +38,9 @@ tagline: '&nbsp;for this site'
 - [x] Add *Links* page
 - [ ] Add RSS feeds
 - [ ] Add options page
-    - [ ] light theme/dark theme
-        - [ ] default to device preference
+    - [x] light theme/dark theme
+        - [x] default to device preference
+            - dark mode now exists for devices that prefer it! still need to make it manual option as well.
     - [ ] LocalStorage to indicate new items since last visit
 - [ ] Publish theme?
 - [ ] WebMentions
