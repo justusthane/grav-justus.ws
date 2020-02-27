@@ -36,7 +36,7 @@ tagline: '&nbsp;for this site'
 - [ ] Write Grav plugin to render these markdown checkboxes as HTML checkboxes
    - Model after Github markdown preview checkboxes
 - [x] Add *Links* page
-   - Maybe actually put links on the links page
+   - [ ] Maybe actually put links on the links page
 - [ ] Add RSS feeds
 - [ ] Add options page
     - [x] light theme/dark theme
