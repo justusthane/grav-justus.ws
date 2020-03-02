@@ -35,6 +35,10 @@ body.home nav h1,h2,h3,h4,h5 {
     font-size: 1.5rem;
 }
 
+#header .elsewhere a {
+    margin: 0 3px 0 3px;
+}
+
 body.home nav {
     font-size: 2.5rem;
 }
