@@ -43,6 +43,10 @@ body.home nav {
     font-size: 2.5rem;
 }
 
+.blag {
+    letter-spacing: 0.08rem;
+}
+
 #content {
     max-width: 800px;
     margin: 0 auto;
