@@ -10,7 +10,7 @@ $( "body.home dl dt a" ).hover(
 
 $( "body.home a[href='/blog']" ).hover(
     function() {
-        $( this ).html('blag');
+        $( this ).html('b<span class="blag">la</span>g');
     }, function() {
         $( this ).html('blog');
     }
