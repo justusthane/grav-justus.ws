@@ -20,7 +20,7 @@ tagline: '&nbsp;for this site'
       - Trying to figure out how to embed the posts on the blog page using the partials template corresponding to the post type. The problem is that the normal way of embedding, `{% include 'partials/post.md' with {'page': 'item'} %}`, explicitly defines the template, where I want to use a template depending on the embedded page type (e.g. photo.md should use partials/photo.twig.html).
          - One possibility might be to build the blog as a modular page, which appears to do this automatically. However, I'm not sure if that will work since each post should also be accessible individually by its own URL
          - It also appears from the [Twig documentation](https://twig.symfony.com/doc/2.x/tags/include.html) that the template name can be a Twig expression, so there might be some room to play there.
-            - [Figured it out](https://github.com/justusthane/grav-justus.ws/commit/d4b3607705bf5760afa877bc220391db318ae5d5), and this ended up being the way. Ended up being super easy: `{% include 'partials/' ~ child.template ~ '.html.twig' with {page: child, embed: true} %}`
+              - *[Figured it out](https://github.com/justusthane/grav-justus.ws/commit/d4b3607705bf5760afa877bc220391db318ae5d5), and this ended up being the way. Ended up being super easy: `{% include 'partials/' ~ child.template ~ '.html.twig' with {page: child, embed: true} %}`*
          - I've also posted on the Grav forum looking for help.
     - [ ] Tags
 - [ ] Automatic ToC for long pages?
