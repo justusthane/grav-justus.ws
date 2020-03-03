@@ -27,15 +27,15 @@ body.home nav h1,h2,h3,h4,h5 {
 #header .tagline {
     margin: 0 auto;
     font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: end;
 }
 
 #header .elsewhere {
     padding-top: 1rem;
     margin: 0 auto;
     font-size: 1.5rem;
-    display: flex;
-    justify-content: center;
-    align-items: end;
 }
 
 #header .elsewhere a {
