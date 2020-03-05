@@ -12,7 +12,6 @@
 
     <link rel="icon" type="image/png" href="{{ url('theme://images/justus.png') }}" />
     <link rel="canonical" href="{{ page.url(true, true) }}" />
-    <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 {% endblock head %}
 
 {% block stylesheets %}
@@ -31,19 +30,22 @@
 {% endblock %}
 </head>
 <body id="top" class="color-auto {{ page.header.body_classes }}">
-
+    <div id="toggle-color">
+    </div>
 {% block header %}
     <div id="header">
         <div class="logo"><a href="{{ base_url_absolute }}" class="u-url u-uid p-name" rel="me">justus grunow</a></div> 
         <div class="tagline">home, home on the net<br />where the links and the hypertexts play</div>
         <div class="elsewhere">
-            <a href="mailto:jg@justus.ws" rel="me" class="u-email" data-label="email | jg@justus.ws"><i class="far fa-envelope-open"></i></a> <a href="https://photos.justus.ws" rel="me" data-label="photos | smugmug"><i class="fas fa-camera-retro"></i></a> <a href="https://github.com/justusthane" rel="me" data-label="code | github"><i class="fab fa-github"></i></a> <a href="https://keybase.io/justusthane" rel="me" data-label="encrypt | keybase"><i class="fab fa-keybase"></i></a>
+            <a href="mailto:jg@justus.ws" data-label="email | jg@justus.ws"><i class="far fa-envelope-open"></i></a> <a href="https://photos.justus.ws" data-label="photos | smugmug"><i class="fas fa-camera-retro"></i></a> <a href="https://github.com/justusthane" data-label="code | github"><i class="fab fa-github"></i></a> <a href="https://keybase.io/justusthane" data-label="encrypt | keybase"><i class="fab fa-keybase"></i></a>
         </div>
     </div>
 {% endblock %}
 
 {% block body %}
+    <div id="content">
         {% block content %}{% endblock %}
+    </div>
 {% endblock %}
 
 {% block footer %}

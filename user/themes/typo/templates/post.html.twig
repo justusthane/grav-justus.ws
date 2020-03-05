@@ -1,10 +1,7 @@
-{% extends 'partials/base.html.twig' %}
-{% block content %}
-    <div id="content">
-        <h1>{% if page.parent.url == home_url %}<a href="/">home</a>{% else %}<a href="{{page.parent.url}}">{{page.parent.slug}}</a>{% endif %}/{{header.title}}</h1>
-        {{ page.content }}
-        <div id="back">
-            {% if page.parent.url != home_url %}<a href="{{page.parent.url}}">&lt; more {{page.parent.menu}}</a>{% endif %}
-        </div>
+<section class="blogPost h-entry">
+    <div class="title"><h2>{{ child.header.title }}</h2></div>
+    <div class="date"><a href="{{child.url}}" class="dt-published u-url u-uid">{{ child.header.date|date("Y-m-d") }}</a></div>
+    <div class="content ">
+    {{ page.content }}
     </div>
-{% endblock %}
+        </section>
