@@ -27,6 +27,9 @@ body.home nav h1,h2,h3,h4,h5 {
 #header .tagline {
     margin: 0 auto;
     font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: end;
 }
 
 #header .elsewhere {
@@ -36,7 +39,7 @@ body.home nav h1,h2,h3,h4,h5 {
 }
 
 #header .elsewhere a {
-    margin: 0 3px 0 3px;
+    padding: 0 6px 0 6px;
 }
 
 body.home nav {
