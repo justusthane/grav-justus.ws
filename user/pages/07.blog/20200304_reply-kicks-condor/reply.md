@@ -9,4 +9,3 @@ Hey, wow, I'm honored! And I hope you appreciate that on my [Links](/links) page
 Hey, maybe that's the answer. Maybe we need to take the *h* out of *href*. Maybe we need to take the *hyper* out of *hyperlink*. If someone really cares, they'll have to manually type the words into their search engine. That'll stop those link cowboys!
 
 Incidentally, I'm pretty sure I can handle at least 20 links before certain destruction--so feel free to keep on linking.
-
