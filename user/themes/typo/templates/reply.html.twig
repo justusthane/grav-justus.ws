@@ -7,4 +7,9 @@
     {{ page.content }}
     </div>
         </section>
+        {% if embed != true %}
+        <div id="back">
+            {% if page.parent.url != home_url %}<a href="{{page.parent.url}}">&lt; more {{page.parent.menu}}</a>{% endif %}
+        </div>
+            {% endif %}
 {% endblock %}

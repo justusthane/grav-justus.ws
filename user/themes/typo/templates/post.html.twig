@@ -1,7 +1,15 @@
+{% extends embed ? 'partials/nothing.html.twig' : 'partials/base.html.twig' %}
+{% block content %}
 <section class="blogPost h-entry">
-    <div class="title"><h2>{{ child.header.title }}</h2></div>
-    <div class="date"><a href="{{child.url}}" class="dt-published u-url u-uid">{{ child.header.date|date("Y-m-d") }}</a></div>
+    <div class="title"><h2 class="p-name">{{ page.header.title }}</h2></div>
+    <div class="date"><a href="{{page.url}}" class="dt-published u-url u-uid">{{ page.header.date|date("Y-m-d") }}</a></div>
     <div class="content ">
     {{ page.content }}
     </div>
         </section>
+        {% if embed != true %}
+        <div id="back">
+            {% if page.parent.url != home_url %}<a href="{{page.parent.url}}">&lt; more {{page.parent.menu}}</a>{% endif %}
+        </div>
+            {% endif %}
+{% endblock %}
