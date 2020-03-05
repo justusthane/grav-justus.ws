@@ -1,0 +1,163 @@
+en:
+  PLUGIN_WEBMENTION:
+    DATADIR: Data Directory
+    DATADIR_HELP: The name of the subdirectory in the 'user/data' folder that will contain the data files
+    SENDER:
+      SECTION_TITLE: Sender Module
+      SECTION_TEXT: The sender module detects external links in your own posts and notifies them of the link
+      ENABLED: Enable module
+      PAGE_ONLY: Page Only
+      PAGE_ONLY_HELP: Scan page content only, or entire generated output.
+      AUTOMATIC: Send Automatically
+      AUTOMATIC_HELP: Automatically send mentions. Might slow down your site.
+      IGNORE_ROUTES: Ignore Routes
+      IGNORE_ROUTES_HELP: Disable the sender module for specific routes.
+      FILE_DATA: Data File
+      FILE_DATA_HELP: Data file for sent mentions
+      BLACKLIST: Blacklist
+      BLACKLIST_HELP: List of domain and path patterns for links the plugin will never notify.
+    RECEIVER:
+      SECTION_TITLE: Receiver Module
+      SECTION_TEXT: The receiver module accepts notifications of links to your site.
+      ENABLED: Enable Module
+      EXPOSE_DATA: Expose Data
+      EXPOSE_DATA_HELP: Expose data to the Grav system via the 'config.plugins.webmention.data' namespace.
+      ADVERTISE_METHOD: Advertise Method
+      ADVERTISE_METHOD_HELP: The method used to advertise to external clients that you accept webmentions.
+      ROUTE: Route
+      ROUTE_HELP: The route external clients will need to contact to notify you.
+      STATUS_UPDATES: Status Updates
+      STATUS_UPDATES_HELP: Determines whether the plugin will allow mentioners to request status updates.
+      IGNORE_PATHS: Ignore Paths
+      IGNORE_PATHS_HELP: Paths you will not accept webmentions for nor advertise webmention functionality.
+      FILE_DATA: Data File
+      FILE_DATA_HELP: The data file for received notifications.
+      WHITELIST: Whitelist
+      WHITELIST_HELP: A list of domain/path patterns for receivers you wish to accept without vouches.
+      BLACKLIST: Blacklist
+      BLACKLIST_HELP: A list of domain/path patterns for receivers you never wish to acknowledge webmentions from.
+      BLACKLIST_SILENTLY: Blacklist Silently
+      BLACKLIST_SILENTLY_HELP: Determines how the plugin will handle blacklisted requests.
+    VOUCH:
+      SECTION_TITLE: Vouch Module
+      SECTION_TEXT: The vouch module implements the Vouch extension of the webmention specification.
+      ENABLED: Enable Module
+      REQUIRED: Required
+      REQUIRED_HELP: Make submission of valid vouches mandatory for received mentions.
+      AUTO_APPROVE: Auto Approve
+      AUTO_APPROVE_HELP: Automatically approve mentions.
+      SENDER_MAP: Sender Map
+      SENDER_MAP_HELP: List of domain/path patterns that are matched by the 'sender' module against external links. 
+      WHITELIST: Whitelist
+      WHITELIST_HELP: List of domain/path patterns matching URLs you accept as valid vouches without doing any actual checks.
+      BLACKLIST: Blacklist
+      BLACKLIST_HELP: List of domain/path patterns matching URLs you will never accept as valid vouches.
+    MESSAGES:
+      OK: 'Your webmention has been received and processed.'
+      CREATED: 'Your webmention has been recieved and will be processed later.'
+      ACCEPTED: 'Your webmention has been received and will be processed later.'
+      BAD_REQUEST: 'Something is wrong with your request. Please do not retry until you have read the following error message and corrected the error.'
+      BAD_REQUEST_SPEC: 'Your request did not conform with the specification. Please read the documentation, adjust your request, and try again.'
+      BAD_REQUEST_BADROUTE: 'That target does not accept webmentions.'
+      BAD_REQUEST_MISSING_VOUCH: 'This target requires that webmentions be accompanied by a valid vouch.'
+      FORBIDDEN: 'This sender has been blacklisted. Please do not retry.'
+      METHOD_NOT_ALLOWED: 'You may not GET this resource. You may only POST to it as per the Webmention spec.'
+      INTERNAL_ERROR: "Something is wrong on our side. We can't process your webmention at this time. Please try again later."
+      STATUS_UPDATE:
+        HEADING: 'Webmention Status'
+        MENTIONER: 'Mentioner'
+        MENTIONEE: 'Mentionee'
+        DATE_RECEIVED: 'Date received'
+        VALID: 'Valid'
+        APPROVED: 'Approved'
+        
+fr:
+  PLUGIN_WEBMENTION:
+    MESSAGES:
+      OK: "Votre Webmention a été reçue et traitée."
+      CREATED: "Votre Webmention a été reçue et sera traitée ultérieurement."
+      ACCEPTED: "Votre Webmention a été reçue et sera traitée ultérieurement."
+      BAD_REQUEST: "Une erreur s'est produite lors de votre demande. Veuillez ne pas réessayer avant d'avoir lu le message d’erreur suivant et corrigé l’erreur."
+      BAD_REQUEST_SPEC: "Votre demande n’est pas conforme aux exigences. Veuillez consulter la documentation, adapter votre demande, et réessayer."
+      BAD_REQUEST_BADROUTE: "Cette cible n'accepte pas les Webmentions."
+      BAD_REQUEST_MISSING_VOUCH: "Cette cible impose que les Webmentions soient accompagnées d’un garant valable."
+      FORBIDDEN: "Cet expéditeur a été blacklisté. Veuillez ne pas réessayer."
+      METHOD_NOT_ALLOWED: "Vous ne pouvez pas utiliser GET pour cette ressource. Vous pouvez uniquement utiliser POST conformément à la spécification Webmention."
+      INTERNAL_ERROR: "Quelque chose ne va pas de notre côté. Nous ne pouvons pas traiter votre Webmention pour le moment. Veuillez essayer plus tard."
+      STATUS_UPDATE:
+        HEADING: "Statut de la Webmention"
+        MENTIONER: "Mentionneur"
+        MENTIONEE: "Mentionné"
+        DATE_RECEIVED: "Date de réception"
+        VALID: "Valider"
+        APPROVED: "Approuvé"
+nl:
+  PLUGIN_WEBMENTION:
+    SENDER:
+      SECTION_TITLE: Verzendmodule
+      SECTION_TEXT: De verzendmodule detecteert externe links in je eigen berichten en meldt deze daarover.
+      ENABLED: Module inschakelen
+      PAGE_ONLY: Alleen pagina
+      PAGE_ONLY_HELP: Alleen paginainhoud scannen, of the complete gegenereerde output.
+      AUTOMATIC: Automatisch verzenden
+      AUTOMATIC_HELP: Verzend mentions automatisch. Kan je website trager maken.
+      IGNORE_ROUTES: Negeer routes
+      IGNORE_ROUTES_HELP: Schakel de verzendmodule uit voor specifieke routes.
+      FILE_DATA: Gegevensbestand
+      FILE_DATA_HELP: Gegevensbestand voor verzonden vermeldingen.
+      BLACKLIST: Zwarte lijst
+      BLACKLIST_HELP: Lijst met patronen voor domeinen en paden die nooit worden gemeld door de plugin.
+    RECEIVER:
+      SECTION_TITLE: Ontvangstmodule
+      SECTION_TEXT: De ontvangstmodule accepteert meldingen van links naar jouw website.
+      ENABLED: Module inschakelen
+      EXPOSE_DATA: Gegevens beschikbaar stellen
+      EXPOSE_DATA_HELP: Beschikbaar stellen van gegevens aan het Grav systeem via de 'config.plugins.webmention.data' namespace.
+      ADVERTISE_METHOD: Bekendmaken via
+      ADVERTISE_METHOD_HELP: De methode om aan externe clients bekend te maken dat je webmentions accepteert.
+      ROUTE: Route
+      ROUTE_HELP: De route die externe clients moeten gebruiken om meldingen naar te sturen.
+      STATUS_UPDATES: Statuswijzigingen
+      STATUS_UPDATES_HELP: Bepaalt of de plugin mentioners toestaat statuswijzigingen op te vragen.
+      IGNORE_PATHS: Negeer paden
+      IGNORE_PATHS_HELP: Paden waarvoor je webmentions accepteert noch webmention functionaliteit bekendmaakt.
+      FILE_DATA: Gegevensbestand
+      FILE_DATA_HELP: Gegevensbestand voor ontvangen vermeldingen.
+      WHITELIST: Witte lijst
+      WHITELIST_HELP: Lijst met patronen voor domeinen en paden van ontvangers die je accepteert zonder vouch.
+      BLACKLIST: Zwarte lijst
+      BLACKLIST_HELP: Lijst met patronen voor domeinen en paden van ontvangers waarvoor je nooit vermeldingen erkent.
+      BLACKLIST_SILENTLY: Zwarte lijst stilletjes
+      BLACKLIST_SILENTLY_HELP: Bepaalt hoe de plugin omgaat met verzoeken op de zwarte lijst.
+    VOUCH:
+      SECTION_TITLE: Bevestigingsmodule
+      SECTION_TEXT: De bevestigingsmodule implementeert de 'Vouch' extensie van de 'Webmention' specificatie.
+      ENABLED: Module ingeschakeld
+      REQUIRED: Vereist
+      REQUIRED_HELP: Maak inzenden van geldige bevestigingen verplicht voor ontvangen vermeldingen.
+      AUTO_APPROVE: Automatisch goedkeuren
+      AUTO_APPROVE_HELP: Vermeldingen automatisch goedkeuren.
+      SENDER_MAP: Verzend map
+      SENDER_MAP_HELP: Lijst met patronen voor domeinen en paden die worden gematched door de verzendmodule tegen externe links. 
+      WHITELIST: Witte lijst
+      WHITELIST_HELP: Lijst met patronen voor domeinen en paden met matchende URL's die je accepteert als geldige bevestigingen zonder daadwerkelijke controles uit te voeren.
+      BLACKLIST: Zwarte lijst
+      BLACKLIST_HELP: Lijst met patronen voor domeinen en paden met matchende URL's die je nooit accepteert als geldige bevestigingen.
+    MESSAGES:
+      OK: 'Je Webmention is ontvangen en verwerkt.'
+      CREATED: 'Je Webmention is ontvangen en wordt later verwerkt.'
+      ACCEPTED: 'Je Webmention is ontvangen en wordt later verwerkt.'
+      BAD_REQUEST: 'Er is iets mis met je verzoek. Probeer het niet opnieuw totdat je de volgende foutmelding hebt gelezen en het probleem hebt verholpen.'
+      BAD_REQUEST_SPEC: 'Je verzoek voldoet niet aan de specificaties. Lees de documentatie, pas je verzoek aan en probeer het opnieuw.'
+      BAD_REQUEST_BADROUTE: 'Dit doel accepteert geen Webmentions.'
+      BAD_REQUEST_MISSING_VOUCH: 'Dit doel vereist dat Webmentions worden vergezeld van een geldige garantie.'
+      FORBIDDEN: 'Deze verzender staat op de zwarte lijst. Probeer het niet opnieuw.'
+      METHOD_NOT_ALLOWED: 'Voor deze resource kun je geen GET gebruiken. Je kunt alleen POST gebruiken volgens de Webmention specificaties.'
+      INTERNAL_ERROR: "Er is iets mis aan onze kant. We kunnen je Webmention op dit moment niet verwerken. Probeer het later opnieuw."
+      STATUS_UPDATE:
+        HEADING: 'Webmention Status'
+        MENTIONER: 'Benoemer'
+        MENTIONEE: 'Benoemde'
+        DATE_RECEIVED: 'Datum ontvangen'
+        VALID: 'Geldig'
+        APPROVED: 'Goedgekeurd'
