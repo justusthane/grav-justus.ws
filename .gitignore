@@ -1,3 +1,8 @@
+/*
+
+!/user
+!Vagrantfile
+
 # Grav Specific
 .sass-cache
 composer.lock
