@@ -49,7 +49,8 @@ body.home nav {
 }
 
 .blag {
-    letter-spacing: 0.08rem;
+    /* Not needed with Interfont */
+    /* letter-spacing: 0.08rem; */
 }
 
 #content {
