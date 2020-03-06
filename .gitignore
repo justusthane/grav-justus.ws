@@ -2,6 +2,7 @@
 
 !/user
 !Vagrantfile
+!.htaccess
 
 # Grav Specific
 .sass-cache
