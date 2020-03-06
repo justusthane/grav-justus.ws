@@ -28,7 +28,7 @@ Chainmail cast iron scrubber
 
 :   These things are the single best thing you can do for your cast iron pans. See my full [cast-iron care](/food/cast-iron) page.
 
-## Apps/Services
+## Apps & Services
 
 [You Need A Budget](https://www.youneedabudget.com/)
 
