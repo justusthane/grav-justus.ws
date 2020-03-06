@@ -20,9 +20,7 @@ AirPods
 
 :   Apple likes to throw the word "magic" around, but AirPods really do feel a little bit magic. I was late on the AirPod train and bought a pair second-hand from a friend, and they immediately become one of my favorite accessories.
 
-    They're just so gosh darn easy to pop in quick. If my phone starts ringing, I can take the case from my pocket, put in an AirPod, and take the call before it goes to voicemail. The case is so small and round I often forget they're even in my pocket (and I hate having things in my pockets).
-
-    They've also been great for listening to music or podcasts while walking or running, which is something I never had a great solution for.
+    They're just so gosh darn easy to pop in quick. If my phone starts ringing, I can take the case from my pocket, put in an AirPod, and take the call before it goes to voicemail. The case is so small and round I often forget they're even in my pocket (and I hate having things in my pockets). They've also been great for listening to music or podcasts while walking or running, which is something I never had a great solution for.
 
 Chainmail cast iron scrubber
 
@@ -32,6 +30,4 @@ Chainmail cast iron scrubber
 
 [You Need A Budget](https://www.youneedabudget.com/)
 
-:   YNAB is a zero-based envelop budgeting system. Any time you earn money, you immediately assign each dollar to a category for its intended purpose until you have *zero* dollars left to assign. This is an analogy of the old envelope-based budgeting where you put money into physical envelopes for rent, groceries, etc. In YNAB, once a category is empty, you're out of money to spend on that thing—you can easily move money from a different category to cover it, but it forces you to be intentional about it. You're making a choice to move available funds from your Vacation category to your Dining Out category. You immediately know what the repurcussions of buying that burger are going to be.
-
-    This has revolutionized my financial life. I've never felt more in control of my finances (despite earning less than I used to). I've previously tried budgeting with Mint and other more traditional budgeting methods, but it's all felt too abstract to me. It takes a bit to wrap your head around the YNAB methodology, but it's well worth it. It's also worth the $84/year, so stop whining about it.
+:   YNAB is a zero-based envelop budgeting system. Any time you earn money, you immediately assign each dollar to a category for its intended purpose until you have *zero* dollars left to assign. This is an analogy of the old envelope-based budgeting where you put money into physical envelopes for rent, groceries, etc. In YNAB, once a category is empty, you're out of money to spend on that thing—you can easily move money from a different category to cover it, but it forces you to be intentional about it. You're making a choice to move available funds from your Vacation category to your Dining Out category. You immediately know what the repurcussions of buying that burger are going to be. It takes a bit to wrap your head around the YNAB methodology, but it's well worth it.
