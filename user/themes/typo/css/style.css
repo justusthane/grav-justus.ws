@@ -60,6 +60,10 @@ body.home nav {
     line-height: 1.4;
 }
 
+#content p {
+    text-align: justify;
+}
+
 #content { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   #content { font-family: 'Inter var', sans-serif; }
