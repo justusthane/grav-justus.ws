@@ -14,6 +14,8 @@ Kicks Condor
 
 :   The blog of a guy passionate about personal websites, the indie web, discovery, and oldschool blogging (maybe?). Lots of links to lots of treasures in here. This site got me excited about personal websites again. I'm [not allowed to link to him](https://www.kickscondor.com/okay-shut-up-about-me-now),[^1] so you'll have to type the words into your search engine.
 
+[^1]: Take solace, Kicks, in the fact that if someone were to follow *this* link to your site and find their screen suddenly filled by this vitriolic nonsensical rant, they'll surely close the window immediately and never visit again.
+
 ## Things
 
 AirPods
@@ -35,7 +37,3 @@ Chainmail cast iron scrubber
 :   YNAB is a zero-based envelop budgeting system. Any time you earn money, you immediately assign each dollar to a category for its intended purpose until you have *zero* dollars left to assign. This is an analogy of the old envelope-based budgeting where you put money into physical envelopes for rent, groceries, etc. In YNAB, once a category is empty, you're out of money to spend on that thing—you can easily move money from a different category to cover it, but it forces you to be intentional about it. You're making a choice to move available funds from your Vacation category to your Dining Out category. You immediately know what the repurcussions of buying that burger are going to be.
 
     This has revolutionized my financial life. I've never felt more in control of my finances (despite earning less than I used to). I've previously tried budgeting with Mint and other more traditional budgeting methods, but it's all felt too abstract to me. It takes a bit to wrap your head around the YNAB methodology, but it's well worth it. It's also worth the $84/year, so stop whining about it.
-
-
-[^1]:
-    Take solace, Kicks, in the fact that if someone were to follow *this* link to your site and find their screen suddenly filled by this vitriolic nonsensical rant, they'll surely close the window immediately and never visit again.
