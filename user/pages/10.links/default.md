@@ -12,7 +12,7 @@ title: 'links & other things I like'
 
 Kicks Condor
 
-:   The blog of a guy passionate about personal websites, the indie web, discovery, and oldschool blogging (maybe?). Lots of links to lots of treasures in here. This site got me excited about personal websites again. I'm [not allowed to link to him](https://www.kickscondor.com/okay-shut-up-about-me-now) (Take solace, Kicks, in the fact that if someone were to follow *this* link to your site and find their screen suddenly filled by this vitriolic nonsensical rant, they'll surely close the window immediately and never visit again.), so you'll have to type the words into your search engine.
+:   The blog of a guy passionate about personal websites, the indie web, discovery, and oldschool blogging (maybe?). Lots of links to lots of treasures in here. This site got me excited about personal websites again. I'm [not allowed to link to him](https://www.kickscondor.com/okay-shut-up-about-me-now) <sup>(Take solace, Kicks, in the fact that if someone were to follow *this* link to your site and find their screen suddenly filled by this vitriolic nonsensical rant, they'll surely close the window immediately and never visit again)</sup>, so you'll have to type the words into your search engine.
 
 ## Things
 
