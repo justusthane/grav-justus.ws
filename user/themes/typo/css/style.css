@@ -84,6 +84,10 @@ body.home nav {
     border-bottom: 1px dashed;
 }
 
+#content hr {
+    border: 1px dashed #fff;
+}
+
 .blogPost {
     padding-bottom: 2rem;
 }
