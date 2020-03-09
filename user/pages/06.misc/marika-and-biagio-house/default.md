@@ -14,6 +14,7 @@ I'm having a little house envy, so I'm going to live vicariously through them an
 
 ![IMG_2627](IMG_2627.jpeg?cropResize=800,800)
 
+---
 ## Update 11/16/19
 
 They're cutting a hole in the side of the house for a sliding door from the living room out to the deck. Dad was there to help out this weekend.
@@ -24,8 +25,8 @@ They're cutting a hole in the side of the house for a sliding door from the livi
 
 
 
+---
 ## Update 2/13/20
-
 The kitchen is livable!
 
 ![IMG_3536](IMG_3536.jpeg?cropResize=800,800)
