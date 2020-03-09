@@ -1,6 +1,22 @@
 {% extends 'partials/base.html.twig' %}
 {% block content %}
         <h1>{% if page.parent.url == home_url %}<a href="/">home</a>{% else %}<a href="{{page.parent.url}}">{{page.parent.slug}}</a>{% endif %}/{{header.title}}</h1>
+        {% if header.toc %}
+                <details id="toc">
+                    <summary>Table of Contents</summary>
+                    <ul>
+                    {% for item in header.toc %}
+                        <li><a href="#{{ item.id }}">{{ item.name }}</a></li>
+                        <ul>
+                        {% for child in item.children %}
+                            <li><a href="#{{ child.id }}">{{ child.name }}</a></li>
+                        {% endfor %}
+                        </ul>
+
+                    {% endfor %}
+                    </ul>
+                </details>
+        {% endif %}
         {{ page.content }}
         <div id="back">
             {% if page.parent.url != home_url %}<a href="{{page.parent.url}}">&lt; more {{page.parent.menu}}</a>{% endif %}

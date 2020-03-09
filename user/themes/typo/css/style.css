@@ -1,4 +1,4 @@
-@import url('https://rsms.me/inter/inter.css');
+import url('https://rsms.me/inter/inter.css');
 
 body {
     font-family: ;
@@ -72,6 +72,16 @@ body.home nav {
 
 #content img {
     width: 100%;
+}
+
+
+#toc {
+    background-color: #fff;
+    margin: 0 0 1rem 0;
+    padding: 1rem;
+    position: sticky;
+    top: 0;
+    border-bottom: 1px dashed;
 }
 
 .blogPost {
@@ -203,6 +213,10 @@ body.home nav {
 
     body.color-auto a:hover {
         color: #f9c536;
+    }
+
+    #toc {
+        background-color: #1e1b2b;
     }
 }
 
