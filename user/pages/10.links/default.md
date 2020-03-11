@@ -10,9 +10,9 @@ toc:
           id: idlewords
         - name: Kicks Condor
           id: kickscondor
-        - Gossip's Cafe
+        - name: Gossip's Cafe
           id: gossipscafe
-        - Special Fish
+        - name: Special Fish
           id: specialfish
     - name: Things
       id: things
