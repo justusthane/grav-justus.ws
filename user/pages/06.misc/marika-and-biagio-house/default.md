@@ -10,23 +10,23 @@ A friend of theirs said, "You guys took the strategy of buying the crappiest hou
 
 I'm having a little house envy, so I'm going to live vicariously through them and follow their progress on this page. 
 
-![IMG_2625](IMG_2625.jpeg?cropResize=800,800)
+![IMG_2625](IMG_2625.jpeg?cropResize=800,600)
 
-![IMG_2627](IMG_2627.jpeg?cropResize=800,800)
+![IMG_2627](IMG_2627.jpeg?cropResize=800,600)
 
 ---
 ## Update 11/16/19
 
 They're cutting a hole in the side of the house for a sliding door from the living room out to the deck. Dad was there to help out this weekend.
 
-![IMG_2690](IMG_2690.jpeg?cropResize=800,800)
+![IMG_2690](IMG_2690.jpeg?cropResize=800,600)
 
-![IMG_2695](IMG_2695.jpeg?cropResize=800,800)
+![IMG_2695](IMG_2695.jpeg?cropResize=800,600)
 
 
 
 ---
 ## Update 2/13/20
-The kitchen is livable!
+The kitchen is livable and cozy!
 
-![IMG_3536](IMG_3536.jpeg?cropResize=800,800)
+![IMG_3536](IMG_3536.jpeg?cropResize=800,600)
