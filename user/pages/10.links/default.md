@@ -46,7 +46,7 @@ Kicks Condor <a id="kickscondor"></a>
 
 <a href="https://special.fish">Special Fish</a> <a id="specialfish"></a>
 
-:    Another tiny whimsical social network by the [same luminous internet community builder](http://bellkiosk.site/) as Gossip's Cafe. You get to choose a username and a color, you get to choose a community to reside in (represented by a little symbol), you get to post lists of things, you get to be a fan of 9 other users, and...that's it!
+:    Another tiny whimsical social network by the [same amazing community builder](http://bellkiosk.site/) as Gossip's Cafe. You get to choose a username and a color, you get to choose a community to reside in (represented by a little symbol), you get to post lists of things, you get to be a fan of 9 other users, and...that's it!
 
 ## Things {#things}
 
